@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yawata.eri@gmail.com**
 
-- ⚡ Fun fact **I love knitting🧶 and bouldering🪨**
+- ⚡ Fun fact **I love [Knitting🧶](https://www.instagram.com/grottoknits) and bouldering🪨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
