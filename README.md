@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eri✨</h1>
-<h3 align="center">Former Data Analyst, Aspiring Software Developer in Tokyo</h3>
+<h3 align="center">Data Analyst, Aspiring Software Developer in Tokyo</h3>
 
 - 🔭 I’m currently working on **🍋Lemonade Stand: a point-of-sales app for flea market vendors**
 
