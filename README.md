@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open-source web applications**
 
-- 💬 Ask me about **my two cats**
+- 💬 Ask me about **my two cats**🐈🐈
 
 - 📫 How to reach me **yawata.eri@gmail.com**
 
