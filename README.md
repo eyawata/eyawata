@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **🍋Lemonade Stand: a point-of-sales app for flea market vendors**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **AWS Web Hosting**
 
 - 👯 I’m looking to collaborate on **open-source web applications**
 
