@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **my two cats**🐈🐈
 
-- 📫 How to reach me **yawata.eri@gmail.com**
+- 📫 How to reach me **eriyawata.hiring@gmail.com**
 
 - ⚡ Fun fact **I love [Knitting🧶](https://www.instagram.com/grottoknits) and bouldering🪨**
 
