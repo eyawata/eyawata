@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Eri✨</h1>
 <h3>Data Analyst, Aspiring Software Developer in Tokyo</h3>
 
-- 🔭 I’m currently working on **🍋Lemonade Stand: a point-of-sales app for flea market vendors**
-
 - 🌱 I’m currently learning **Red Hat Enterprise Linux**
 
 - 👯 I’m looking to collaborate on **open-source web applications**
