@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Eri✨</h1>
-<h3>Data Analyst, Aspiring Software Developer in Tokyo</h3>
+<h3>Backend Software Engineer in Tokyo, Japan</h3>
 
 - 🌱 I’m currently learning **Red Hat Enterprise Linux**
 
