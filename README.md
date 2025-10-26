@@ -1,10 +1,6 @@
 <h1>Hi 👋, I'm Eri✨</h1>
 <h3>Backend Software Engineer in Tokyo, Japan</h3>
 
-- 🌱 I’m currently learning **Red Hat Enterprise Linux**
-
-- 👯 I’m looking to collaborate on **open-source web applications**
-
 - 💬 Ask me about **my two cats**🐈🐈
 
 - 📫 How to reach me **eriyawata.hiring@gmail.com**
